@@ -1,0 +1,22 @@
+[
+{ "id": "c1", "name": "Atlas Labs", "industry": "Biotech", "location": "Bengaluru, India", "employees": 120, "founded": 2015, "website": "https://atlas.example" },
+{ "id": "c2", "name": "BlueWave Solutions", "industry": "Software", "location": "Pune, India", "employees": 55, "founded": 2018, "website": "https://bluewave.example" },
+{ "id": "c3", "name": "Cedar Finance", "industry": "Finance", "location": "Mumbai, India", "employees": 240, "founded": 2010, "website": "https://cedar.example" },
+{ "id": "c4", "name": "Drift Logistics", "industry": "Logistics", "location": "Delhi, India", "employees": 340, "founded": 2005, "website": "https://drift.example" },
+{ "id": "c5", "name": "Echo Media", "industry": "Media", "location": "Hyderabad, India", "employees": 38, "founded": 2020, "website": "https://echo.example" },
+{ "id": "c6", "name": "Forma Design", "industry": "Design", "location": "Chennai, India", "employees": 18, "founded": 2019, "website": "https://forma.example" },
+{ "id": "c7", "name": "GreenFields Agritech", "industry": "AgriTech", "location": "Jaipur, India", "employees": 92, "founded": 2016, "website": "https://greenfields.example" },
+{ "id": "c8", "name": "Helix Pharmaceuticals", "industry": "Pharma", "location": "Bengaluru, India", "employees": 560, "founded": 2000, "website": "https://helix.example" },
+{ "id": "c9", "name": "Iris Analytics", "industry": "Data", "location": "Kolkata, India", "employees": 77, "founded": 2017, "website": "https://iris.example" },
+{ "id": "c10", "name": "Juno Robotics", "industry": "Robotics", "location": "Chandigarh, India", "employees": 210, "founded": 2012, "website": "https://juno.example" },
+{ "id": "c11", "name": "Kite Energy", "industry": "Energy", "location": "Ahmedabad, India", "employees": 140, "founded": 2013, "website": "https://kite.example" },
+{ "id": "c12", "name": "Lumen Education", "industry": "EdTech", "location": "Bengaluru, India", "employees": 66, "founded": 2019, "website": "https://lumen.example" },
+{ "id": "c13", "name": "Mosaic Retail", "industry": "Retail", "location": "Pune, India", "employees": 300, "founded": 2008, "website": "https://mosaic.example" },
+{ "id": "c14", "name": "Nexus Security", "industry": "Cybersecurity", "location": "Mumbai, India", "employees": 85, "founded": 2014, "website": "https://nexus.example" },
+{ "id": "c15", "name": "Oak Interiors", "industry": "Architecture", "location": "Hyderabad, India", "employees": 26, "founded": 2016, "website": "https://oak.example" },
+{ "id": "c16", "name": "Pulse Health", "industry": "Healthcare", "location": "Delhi, India", "employees": 480, "founded": 2009, "website": "https://pulse.example" },
+{ "id": "c17", "name": "Quanta Labs", "industry": "Semiconductor", "location": "Bengaluru, India", "employees": 130, "founded": 2011, "website": "https://quanta.example" },
+{ "id": "c18", "name": "Ripple Payments", "industry": "FinTech", "location": "Mumbai, India", "employees": 95, "founded": 2017, "website": "https://ripple.example" },
+{ "id": "c19", "name": "Summit Consulting", "industry": "Consulting", "location": "Noida, India", "employees": 205, "founded": 2003, "website": "https://summit.example" },
+{ "id": "c20", "name": "Tide Wear", "industry": "Fashion", "location": "Surat, India", "employees": 60, "founded": 2015, "website": "https://tide.example" }
+]
